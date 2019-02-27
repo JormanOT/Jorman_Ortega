@@ -190,6 +190,57 @@ footer p
         padding: 1rem 1rem;
     }
 }
+@media(max-height: 520px)
+{
+    .cabezera::after
+    {
+        height: 100vh;
+    }
+    .cabezera-contenido .img-Redondo
+    {
+        height: 200px;
+        width: 200px;
+    }
+    .cabezera-contenido
+    {
+        left: 10px;
+        right: 10px;
+        top: 75px;
+        margin-right: 2rem;
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+    .servicios
+    {
+        padding: 1rem 1rem;
+    }
+}
+@media(max-height: 400px)
+{
+    .cabezera::after
+    {
+        height: 100vh;
+    }
+    .cabezera-contenido .img-Redondo
+    {
+        height: 140px;
+        width: 140px;
+    }
+    .cabezera-contenido
+    {
+        left: 10px;
+        right: 10px;
+        top: 19px;
+        bottom: 10px;
+        margin-right: 2rem;
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+    .servicios
+    {
+        padding: 1rem 1rem;
+    }
+}
 .img-Redondo 
 {
     border-radius: 50% !important;
