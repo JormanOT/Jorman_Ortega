@@ -5,6 +5,11 @@ body
     color: #fff;
     font-family: 'Rubik', sans-serif;
 }
+.cajon
+{
+    height: 320px;
+    padding: 2rem;
+}
 .cabezera::after
 {
     content: '';
@@ -139,6 +144,31 @@ footer p
     {
         padding: 1rem 1rem;
     }
+    .imagen_1
+    {
+        height: 137px;
+        width : 150px;
+    }
+    .imagen_2
+    {
+        height: 132px;
+        width : 200px;
+    }
+    .imagen_3
+    {
+        height: 132px;
+        width : 200px;
+    }
+    .imagen_4
+    {
+        height: 200px;
+        width : 290px;
+    }
+    .google
+    {
+        height: 115px;
+        width : 225px;
+    }
 }
 @media(max-width: 1024px)
 {
@@ -163,6 +193,26 @@ footer p
     .servicios
     {
         padding: 1rem 1rem;
+    }
+    .imagen_1
+    {
+        height: 137px;
+        width : 150px;
+    }
+    .imagen_2
+    {
+        height: 132px;
+        width : 200px;
+    }
+    .imagen_3
+    {
+        height: 132px;
+        width : 200px;
+    }
+    .imagen_4
+    {
+        height: 200px;
+        width : 290px;
     }
 }
 @media(max-width: 2100px)
@@ -210,9 +260,33 @@ footer p
         margin-top: 1rem;
         margin-left: 2rem;
     }
+    .grilla-3, .grilla-2
+    {
+        grid-template-columns: 1fr;
+    }
     .servicios
     {
         padding: 1rem 1rem;
+    }
+    .imagen_1
+    {
+        height: 274px;
+        width : 300px;
+    }
+    .imagen_2
+    {
+        height: 265px;
+        width : 400px;
+    }
+    .imagen_3
+    {
+        height: 265px;
+        width : 400px;
+    }
+    .imagen_4
+    {
+        height: 300px;
+        width : 480px;
     }
 }
 @media(max-height: 400px)
@@ -239,6 +313,30 @@ footer p
     .servicios
     {
         padding: 1rem 1rem;
+    }
+    .imagen_1
+    {
+        height: 274px;
+        width : 300px;
+    }
+    .imagen_2
+    {
+        height: 265px;
+        width : 400px;
+    }
+    .imagen_3
+    {
+        height: 265px;
+        width : 400px;
+    }
+    .imagen_4
+    {
+        height: 300px;
+        width : 480px;
+    }
+    .grilla-3, .grilla-2
+    {
+        grid-template-columns: 1fr;
     }
 }
 .img-Redondo 
