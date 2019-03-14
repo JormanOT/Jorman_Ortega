@@ -9,22 +9,37 @@
 
 <url>
   <loc>https://jormanot.com.ve/</loc>
-  <lastmod>2019-02-27T02:04:09+00:00</lastmod>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://jormanot.com.ve/Servicios/Blog.html</loc>
-  <lastmod>2019-02-27T02:04:09+00:00</lastmod>
+  <loc>https://jormanot.com.ve/Servicios/Personales/Blog.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jormanot.com.ve/Servicios/Net.html</loc>
-  <lastmod>2019-02-27T02:04:09+00:00</lastmod>
+  <loc>https://jormanot.com.ve/Servicios/Personales/Net.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jormanot.com.ve/Servicios/Web.html</loc>
-  <lastmod>2019-02-27T02:04:09+00:00</lastmod>
+  <loc>https://jormanot.com.ve/Servicios/Personales/Web.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jormanot.com.ve/Servicios/Corporativos/Web-Corporativa.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jormanot.com.ve/Servicios/Corporativos/Correos-Corporativos.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jormanot.com.ve/Servicios/Corporativos/SEO-Corporativo.html</loc>
+  <lastmod>2019-03-14T11:25:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
